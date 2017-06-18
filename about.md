@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About AI.fitness
-permalink: /about/
+permalink: "/about/"
+layout: page
 tags: about
 ---
 
